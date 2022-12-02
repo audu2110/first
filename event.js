@@ -6,3 +6,7 @@ ul.children[1].style.background = 'yellow';
 function onClick(){
     alert();
 }
+
+function mouseOver() {
+    document.getElementById("od").style.background='red';
+}
