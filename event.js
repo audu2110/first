@@ -10,3 +10,7 @@ function onClick(){
 function mouseOver() {
     document.getElementById("od").style.background='red';
 }
+
+function mouseOut() {
+    document.getElementById("od").style.background='black';
+}
